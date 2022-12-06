@@ -1,8 +1,3 @@
-/*
-
-
-*/
-
 
 #define BLINKER_WIFI
 
